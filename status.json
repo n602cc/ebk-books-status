@@ -1,1 +1,312 @@
-{"placeholder":true}
+{
+ "generated_at": "2026-10-25T23:28:50+00:00",
+ "affiliate_prefix": "https://uk.bookshop.org/a/16694/",
+ "books": [
+  {
+   "available": true,
+   "fails": 0,
+   "checked_at": "2026-10-25T23:28:50+00:00",
+   "reason": "in_stock_despatches_immediately",
+   "isbn": "9781802364248"
+  },
+  {
+   "available": true,
+   "fails": 0,
+   "checked_at": "2026-10-25T23:28:50+00:00",
+   "reason": "in_stock_despatches_immediately",
+   "isbn": "9781802361681"
+  },
+  {
+   "available": true,
+   "fails": 0,
+   "checked_at": "2026-10-25T23:28:50+00:00",
+   "reason": "orderable_despatches_within_weeks",
+   "isbn": "9781802361674"
+  },
+  {
+   "available": true,
+   "fails": 0,
+   "checked_at": "2026-10-25T23:28:50+00:00",
+   "reason": "in_stock_despatches_immediately",
+   "isbn": "9781802360561"
+  },
+  {
+   "available": true,
+   "fails": 0,
+   "checked_at": "2026-10-25T23:28:50+00:00",
+   "reason": "in_stock_despatches_immediately",
+   "isbn": "9781845285234"
+  },
+  {
+   "available": true,
+   "fails": 0,
+   "checked_at": "2026-10-25T23:28:50+00:00",
+   "reason": "in_stock_despatches_immediately",
+   "isbn": "9781800495722"
+  },
+  {
+   "available": true,
+   "fails": 0,
+   "checked_at": "2026-10-25T23:28:50+00:00",
+   "reason": "orderable_despatches_within_weeks",
+   "isbn": "9781916333000"
+  },
+  {
+   "available": true,
+   "fails": 0,
+   "checked_at": "2026-10-25T23:28:50+00:00",
+   "reason": "in_stock_despatches_immediately",
+   "isbn": "9781802363500"
+  },
+  {
+   "available": true,
+   "fails": 0,
+   "checked_at": "2026-10-25T23:28:50+00:00",
+   "reason": "in_stock_despatches_immediately",
+   "isbn": "9781119997214"
+  },
+  {
+   "available": true,
+   "fails": 0,
+   "checked_at": "2026-10-25T23:28:50+00:00",
+   "reason": "in_stock_despatches_immediately",
+   "isbn": "9781802364002"
+  },
+  {
+   "available": true,
+   "fails": 0,
+   "checked_at": "2026-10-25T23:28:50+00:00",
+   "reason": "in_stock_despatches_immediately",
+   "isbn": "9781802362794"
+  },
+  {
+   "available": true,
+   "fails": 0,
+   "checked_at": "2026-10-25T23:28:50+00:00",
+   "reason": "in_stock_despatches_immediately",
+   "isbn": "9781802364262"
+  },
+  {
+   "available": true,
+   "fails": 0,
+   "checked_at": "2026-10-25T23:28:50+00:00",
+   "reason": "in_stock_despatches_immediately",
+   "isbn": "9781802363487"
+  },
+  {
+   "available": true,
+   "fails": 0,
+   "checked_at": "2026-10-25T23:28:50+00:00",
+   "reason": "orderable_despatches_within_weeks",
+   "isbn": "9781032053127"
+  },
+  {
+   "available": true,
+   "fails": 0,
+   "checked_at": "2026-10-25T23:28:50+00:00",
+   "reason": "in_stock_despatches_immediately",
+   "isbn": "9781529147032",
+   "last_error": "fetch_error_missing"
+  },
+  {
+   "available": true,
+   "fails": 0,
+   "checked_at": "2026-10-25T23:28:50+00:00",
+   "reason": "in_stock_despatches_immediately",
+   "isbn": "9781394354511",
+   "last_error": "fetch_error_missing"
+  },
+  {
+   "available": true,
+   "fails": 0,
+   "checked_at": "2026-10-25T23:28:50+00:00",
+   "reason": "in_stock_despatches_immediately",
+   "isbn": "9781802364477",
+   "last_error": "fetch_error_missing"
+  },
+  {
+   "available": true,
+   "fails": 0,
+   "checked_at": "2026-10-25T23:28:50+00:00",
+   "reason": "in_stock_despatches_immediately",
+   "isbn": "9781804091272",
+   "last_error": "fetch_error_missing"
+  },
+  {
+   "available": true,
+   "fails": 0,
+   "checked_at": "2026-10-25T23:28:50+00:00",
+   "reason": "in_stock_despatches_immediately",
+   "isbn": "9781292444406",
+   "last_error": "fetch_error_missing"
+  },
+  {
+   "available": true,
+   "fails": 0,
+   "checked_at": "2026-10-25T23:28:50+00:00",
+   "reason": "in_stock_despatches_immediately",
+   "isbn": "9781802364378",
+   "last_error": "fetch_error_missing"
+  },
+  {
+   "available": true,
+   "fails": 0,
+   "checked_at": "2026-10-25T23:28:50+00:00",
+   "reason": "in_stock_despatches_immediately",
+   "isbn": "9781802362992",
+   "last_error": "fetch_error_missing"
+  },
+  {
+   "available": true,
+   "fails": 0,
+   "checked_at": "2026-10-25T23:28:50+00:00",
+   "reason": "in_stock_despatches_immediately",
+   "isbn": "9781802363494",
+   "last_error": "fetch_error_missing"
+  },
+  {
+   "available": true,
+   "fails": 0,
+   "checked_at": "2026-10-25T23:28:50+00:00",
+   "reason": "orderable_despatches_within_weeks",
+   "isbn": "9781802362497",
+   "last_error": "fetch_error_missing"
+  },
+  {
+   "available": true,
+   "fails": 0,
+   "checked_at": "2026-10-25T23:28:50+00:00",
+   "reason": "orderable_despatches_within_weeks",
+   "isbn": "9781802362503",
+   "last_error": "fetch_error_missing"
+  },
+  {
+   "available": true,
+   "fails": 0,
+   "checked_at": "2026-10-25T23:28:50+00:00",
+   "reason": "in_stock_despatches_immediately",
+   "isbn": "9781802363661",
+   "last_error": "fetch_error_missing"
+  },
+  {
+   "available": true,
+   "fails": 0,
+   "checked_at": "2026-10-25T23:28:50+00:00",
+   "reason": "orderable_despatches_within_weeks",
+   "isbn": "9781472143822"
+  },
+  {
+   "available": true,
+   "fails": 0,
+   "checked_at": "2026-10-25T23:28:50+00:00",
+   "reason": "in_stock_despatches_immediately",
+   "isbn": "9781802363692"
+  },
+  {
+   "available": true,
+   "fails": 0,
+   "checked_at": "2026-10-25T23:28:50+00:00",
+   "reason": "in_stock_despatches_immediately",
+   "isbn": "9781802363470"
+  },
+  {
+   "available": true,
+   "fails": 0,
+   "checked_at": "2026-10-25T23:28:50+00:00",
+   "reason": "in_stock_despatches_immediately",
+   "isbn": "9781802362800"
+  },
+  {
+   "available": true,
+   "fails": 0,
+   "checked_at": "2026-10-25T23:28:50+00:00",
+   "reason": "in_stock_despatches_immediately",
+   "isbn": "9781845285845"
+  },
+  {
+   "available": true,
+   "fails": 0,
+   "checked_at": "2026-10-25T23:28:50+00:00",
+   "reason": "in_stock_despatches_immediately",
+   "isbn": "9781529146332"
+  },
+  {
+   "available": true,
+   "fails": 0,
+   "checked_at": "2026-10-25T23:28:50+00:00",
+   "reason": "in_stock_despatches_immediately",
+   "isbn": "9781399427906"
+  },
+  {
+   "available": true,
+   "fails": 0,
+   "checked_at": "2026-10-25T23:28:50+00:00",
+   "reason": "in_stock_despatches_immediately",
+   "isbn": "9781802362343"
+  },
+  {
+   "available": true,
+   "fails": 0,
+   "checked_at": "2026-10-25T23:28:50+00:00",
+   "reason": "in_stock_despatches_immediately",
+   "isbn": "9781802363708"
+  },
+  {
+   "available": true,
+   "fails": 0,
+   "checked_at": "2026-10-25T23:28:50+00:00",
+   "reason": "in_stock_despatches_immediately",
+   "isbn": "9781802364361"
+  },
+  {
+   "available": true,
+   "fails": 0,
+   "checked_at": "2026-10-25T23:28:50+00:00",
+   "reason": "in_stock_despatches_immediately",
+   "isbn": "9781802363173"
+  },
+  {
+   "available": true,
+   "fails": 0,
+   "checked_at": "2026-10-25T23:28:50+00:00",
+   "reason": "in_stock_despatches_immediately",
+   "isbn": "9781802360660"
+  },
+  {
+   "available": true,
+   "fails": 0,
+   "checked_at": "2026-10-25T23:28:50+00:00",
+   "reason": "in_stock_despatches_immediately",
+   "isbn": "9781802362916"
+  },
+  {
+   "available": true,
+   "fails": 0,
+   "checked_at": "2026-10-25T23:28:50+00:00",
+   "reason": "in_stock_despatches_immediately",
+   "isbn": "9781802362329"
+  },
+  {
+   "available": true,
+   "fails": 0,
+   "checked_at": "2026-10-25T23:28:50+00:00",
+   "reason": "in_stock_despatches_immediately",
+   "isbn": "9780091935375"
+  },
+  {
+   "available": true,
+   "fails": 0,
+   "checked_at": "2026-10-25T23:28:50+00:00",
+   "reason": "orderable_despatches_within_weeks",
+   "isbn": "9780091935368"
+  }
+ ],
+ "summary": {
+  "total": 41,
+  "available": 41,
+  "unavailable": 0,
+  "errors": 0,
+  "error_rate": 0.0,
+  "changed": []
+ }
+}
