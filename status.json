@@ -1,654 +1,654 @@
 {
- "generated_at": "2026-10-30T22:11:45+00:00",
+ "generated_at": "2026-10-31T06:18:23+00:00",
  "affiliate_prefix": "https://uk.bookshop.org/a/16694/",
  "books": [
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "isbn": "9781802364248",
    "price_gbp": 10.44,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "isbn": "9781802361681",
    "price_gbp": 10.44,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "orderable_despatches_within_weeks",
    "isbn": "9781802361674",
    "price_gbp": 10.44,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "isbn": "9781802360561",
    "price_gbp": 9.49,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "isbn": "9781845285234",
    "price_gbp": 12.34,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "isbn": "9781800495722",
    "price_gbp": 9.49,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "orderable_despatches_within_weeks",
    "isbn": "9781916333000",
    "price_gbp": 9.49,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "isbn": "9781802363500",
    "price_gbp": 10.44,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "isbn": "9781119997214",
    "price_gbp": 18.04,
-   "price_checked_at": "2026-10-30T22:11:45+00:00",
+   "price_checked_at": "2026-10-31T06:18:23+00:00",
    "format": "ebook",
    "price_prev_gbp": 14.99
   },
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "isbn": "9781802364002",
    "price_gbp": 10.44,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "isbn": "9781802362794",
    "price_gbp": 10.44,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "available": false,
-   "fails": 13,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "fails": 14,
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "unavailable_delivery_unknown",
    "isbn": "9781802364262",
    "price_gbp": 10.44,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "isbn": "9781802363487",
    "price_gbp": 10.44,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "orderable_despatches_within_weeks",
    "isbn": "9781032053127",
    "price_gbp": 33.99,
-   "price_checked_at": "2026-10-30T22:11:45+00:00",
+   "price_checked_at": "2026-10-31T06:18:23+00:00",
    "hidden_reason": "academic_hardback_145.99_not_consumer_fit",
    "price_prev_gbp": 145.99
   },
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "isbn": "9781529147032",
    "last_error": "fetch_error_missing",
    "price_gbp": 16.14,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "isbn": "9781394354511",
    "last_error": "fetch_error_missing",
    "price_gbp": 20.89,
-   "price_checked_at": "2026-10-30T22:11:45+00:00",
+   "price_checked_at": "2026-10-31T06:18:23+00:00",
    "format": "ebook",
    "price_prev_gbp": 16.99
   },
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "isbn": "9781802364477",
    "last_error": "fetch_error_missing",
    "price_gbp": 10.44,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "isbn": "9781804091272",
    "last_error": "fetch_error_missing",
    "price_gbp": 28.49,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "isbn": "9781292444406",
    "last_error": "fetch_error_missing",
    "price_gbp": 27.99,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "isbn": "9781802364378",
    "last_error": "fetch_error_missing",
    "price_gbp": 10.44,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "isbn": "9781802362992",
    "last_error": "fetch_error_missing",
    "price_gbp": 10.44,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "isbn": "9781802363494",
    "last_error": "fetch_error_missing",
    "price_gbp": 10.44,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "orderable_despatches_within_weeks",
    "isbn": "9781802362497",
    "last_error": "fetch_error_missing",
    "price_gbp": 10.44,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "orderable_despatches_within_weeks",
    "isbn": "9781802362503",
    "last_error": "fetch_error_missing",
    "price_gbp": 10.44,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "isbn": "9781802363661",
    "last_error": "fetch_error_missing",
    "price_gbp": 10.44,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "orderable_despatches_within_weeks",
    "isbn": "9781472143822",
    "price_gbp": 12.34,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "isbn": "9781802363692",
    "price_gbp": 10.44,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "isbn": "9781802363470",
    "price_gbp": 10.44,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "isbn": "9781802362800",
    "price_gbp": 9.49,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "isbn": "9781845285845",
    "price_gbp": 12.34,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "isbn": "9781529146332",
    "price_gbp": 12.34,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "isbn": "9781399427906",
    "price_gbp": 16.14,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "isbn": "9781802362343",
    "price_gbp": 9.49,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "isbn": "9781802363708",
    "price_gbp": 10.44,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "isbn": "9781802364361",
    "price_gbp": 10.44,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "isbn": "9781802363173",
    "price_gbp": 9.49,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "isbn": "9781802360660",
    "price_gbp": 9.49,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "isbn": "9781802362916",
    "price_gbp": 9.49,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "isbn": "9781802362329",
    "price_gbp": 10.44,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "isbn": "9780091935375",
    "price_gbp": 18.99,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "orderable_despatches_within_weeks",
    "isbn": "9780091935368",
    "price_gbp": 15.19,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "isbn": "9781784521288",
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "price_gbp": 12.34,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "isbn": "9781119512127",
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "price_gbp": 49.0,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "isbn": "9780857197689",
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "price_gbp": 16.14,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "isbn": "9780670921607",
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "price_gbp": 16.14,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "isbn": "9781789048186",
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "price_gbp": 10.44,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "isbn": "9781911475378",
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "orderable_despatches_within_weeks",
    "price_gbp": 12.34,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "isbn": "9781913776725",
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "price_gbp": 9.49,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "isbn": "9781119976400",
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "price_gbp": 18.04,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "isbn": "9780470515020",
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "price_gbp": 21.84,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "isbn": "9781802360509",
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "price_gbp": 9.49,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "isbn": "9780552171618",
    "available": false,
-   "fails": 9,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "fails": 10,
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "unavailable_delivery_unknown",
    "price_gbp": 10.44,
-   "price_checked_at": "2026-10-30T22:11:45+00:00",
+   "price_checked_at": "2026-10-31T06:18:23+00:00",
    "hidden_reason": "political_leaning_no_political_titles_rule"
   },
   {
    "isbn": "9780857195678",
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "price_gbp": 14.24,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "isbn": "9781398625808",
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "price_gbp": 20.89,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "isbn": "9781782112068",
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "price_gbp": 10.44,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "isbn": "9780349439426",
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "price_gbp": 12.34,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "isbn": "9781472135759",
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "price_gbp": 16.14,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "isbn": "9780857195340",
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "price_gbp": 23.74,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "isbn": "9781473695306",
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "price_gbp": 16.14,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "isbn": "9781802365092",
    "price_gbp": 10.44,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "isbn": "9781916016835",
    "price_gbp": 23.75,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "isbn": "9781802365108",
    "price_gbp": 11.39,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "isbn": "9781787635586",
    "price_gbp": 16.14,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "isbn": "9781394201655",
    "price_gbp": 23.74,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "isbn": "9781398620926",
    "price_gbp": 12.34,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "isbn": "9781802364699",
    "price_gbp": 10.44,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "isbn": "9781802365139",
    "price_gbp": 10.44,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "isbn": "9781847941831",
    "price_gbp": 18.04,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "isbn": "9780141033570",
    "price_gbp": 16.14,
-   "price_checked_at": "2026-10-30T22:11:45+00:00"
+   "price_checked_at": "2026-10-31T06:18:23+00:00"
   },
   {
    "available": true,
    "fails": 0,
-   "checked_at": "2026-10-30T22:11:45+00:00",
+   "checked_at": "2026-10-31T06:18:23+00:00",
    "reason": "in_stock_despatches_immediately",
    "isbn": "9780349411903",
    "price_gbp": 18.04,
-   "price_checked_at": "2026-10-30T22:11:45+00:00",
+   "price_checked_at": "2026-10-31T06:18:23+00:00",
    "price_prev_gbp": 18.99
   }
  ],
