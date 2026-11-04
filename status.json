@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T06:09:32+00:00",
+ "generated_at": "2026-11-04T06:10:29+00:00",
  "affiliate_prefix": "https://uk.bookshop.org/a/16694/",
  "books": [
   {
@@ -481,7 +481,7 @@
   {
    "isbn": "9780552171618",
    "available": false,
-   "fails": 22,
+   "fails": 23,
    "checked_at": "2026-11-04T06:09:32+00:00",
    "reason": "unavailable_delivery_unknown",
    "price_gbp": 10.44,
@@ -695,11 +695,29 @@
    "isbn": "9781292156125",
    "price_gbp": 16.99,
    "price_checked_at": "2026-11-04T06:09:32+00:00"
+  },
+  {
+   "available": true,
+   "fails": 0,
+   "checked_at": "2026-11-04T06:10:24+00:00",
+   "reason": "in_stock_despatches_immediately",
+   "isbn": "9781785211706",
+   "price_gbp": 23.75,
+   "price_checked_at": "2026-11-04T06:10:24+00:00"
+  },
+  {
+   "available": true,
+   "fails": 0,
+   "checked_at": "2026-11-04T06:10:24+00:00",
+   "reason": "in_stock_despatches_immediately",
+   "isbn": "9781838463731",
+   "price_gbp": 23.99,
+   "price_checked_at": "2026-11-04T06:10:24+00:00"
   }
  ],
  "summary": {
-  "total": 75,
-  "available": 74,
+  "total": 77,
+  "available": 76,
   "unavailable": 1,
   "errors": 0,
   "error_rate": 0.0,
