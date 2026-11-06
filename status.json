@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T10:21:30+00:00",
+ "generated_at": "2026-11-06T10:23:48+00:00",
  "affiliate_prefix": "https://uk.bookshop.org/a/16694/",
  "books": [
   {
@@ -481,7 +481,7 @@
   {
    "isbn": "9780552171618",
    "available": false,
-   "fails": 38,
+   "fails": 39,
    "checked_at": "2026-11-06T10:21:30+00:00",
    "reason": "unavailable_delivery_unknown",
    "price_gbp": 10.44,
@@ -947,11 +947,56 @@
    "isbn": "9781324035435",
    "price_gbp": 16.99,
    "price_checked_at": "2026-11-06T10:21:30+00:00"
+  },
+  {
+   "available": true,
+   "fails": 0,
+   "checked_at": "2026-11-06T10:23:48+00:00",
+   "reason": "in_stock_despatches_immediately",
+   "isbn": "9781802365153",
+   "price_gbp": 10.44,
+   "price_checked_at": "2026-11-06T10:23:48+00:00"
+  },
+  {
+   "available": true,
+   "fails": 0,
+   "checked_at": "2026-11-06T10:23:48+00:00",
+   "reason": "in_stock_despatches_immediately",
+   "isbn": "9781802364903",
+   "price_gbp": 10.44,
+   "price_checked_at": "2026-11-06T10:23:48+00:00"
+  },
+  {
+   "available": true,
+   "fails": 0,
+   "checked_at": "2026-11-06T10:23:48+00:00",
+   "reason": "in_stock_despatches_immediately",
+   "isbn": "9781802365146",
+   "price_gbp": 10.44,
+   "price_checked_at": "2026-11-06T10:23:48+00:00"
+  },
+  {
+   "available": true,
+   "fails": 0,
+   "checked_at": "2026-11-06T10:23:48+00:00",
+   "reason": "in_stock_despatches_immediately",
+   "isbn": "9781914240232",
+   "price_gbp": 12.34,
+   "price_checked_at": "2026-11-06T10:23:48+00:00"
+  },
+  {
+   "available": true,
+   "fails": 0,
+   "checked_at": "2026-11-06T10:23:48+00:00",
+   "reason": "in_stock_despatches_immediately",
+   "isbn": "9781802363852",
+   "price_gbp": 10.44,
+   "price_checked_at": "2026-11-06T10:23:48+00:00"
   }
  ],
  "summary": {
-  "total": 103,
-  "available": 102,
+  "total": 108,
+  "available": 107,
   "unavailable": 1,
   "errors": 0,
   "error_rate": 0.0,
