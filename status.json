@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T06:09:02+00:00",
+ "generated_at": "2026-11-10T06:10:13+00:00",
  "affiliate_prefix": "https://uk.bookshop.org/a/16694/",
  "books": [
   {
@@ -743,7 +743,7 @@
   },
   {
    "available": false,
-   "fails": 2,
+   "fails": 3,
    "checked_at": "2026-11-10T06:08:59+00:00",
    "reason": "unavailable_delivery_unknown",
    "isbn": "9780753558690",
@@ -1019,17 +1019,23 @@
    "isbn": "9781802364842",
    "price_gbp": 10.44,
    "price_checked_at": "2026-11-10T06:08:59+00:00"
+  },
+  {
+   "available": true,
+   "fails": 0,
+   "checked_at": "2026-11-10T06:10:03+00:00",
+   "reason": "in_stock_despatches_immediately",
+   "isbn": "9781802365122",
+   "price_gbp": 12.34,
+   "price_checked_at": "2026-11-10T06:10:03+00:00"
   }
  ],
  "summary": {
-  "total": 111,
-  "available": 110,
+  "total": 112,
+  "available": 111,
   "unavailable": 1,
   "errors": 0,
   "error_rate": 0.0,
-  "changed": [
-   "9780552171618",
-   "9780753558690"
-  ]
+  "changed": []
  }
 }
