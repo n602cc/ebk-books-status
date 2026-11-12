@@ -263,10 +263,10 @@
    "price_checked_at": "2026-11-12T06:05:00+00:00"
   },
   {
-   "available": false,
-   "fails": 2,
+   "available": true,
+   "fails": 1,
    "checked_at": "2026-11-12T06:05:00+00:00",
-   "reason": "unavailable_delivery_unknown",
+   "reason": "unavailable_delivery_unknown_pending_confirmation",
    "isbn": "9781802363470",
    "price_gbp": 10.44,
    "price_checked_at": "2026-11-12T06:05:00+00:00"
@@ -1068,12 +1068,10 @@
  ],
  "summary": {
   "total": 116,
-  "available": 115,
-  "unavailable": 1,
+  "available": 116,
+  "unavailable": 0,
   "errors": 0,
   "error_rate": 0.0,
-  "changed": [
-   "9781802363470"
-  ]
+  "changed": []
  }
 }
